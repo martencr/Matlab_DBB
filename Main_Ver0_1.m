@@ -1,6 +1,8 @@
 %% Please read the file ReadMe.txt in the same directory
 clc % this command clears the screen of previous printouts 
 clear % this clears the list of variables
+% testing git
+
 
 %% FileObject stores the data for each I62-file
 % Starting with the fields
