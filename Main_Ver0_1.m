@@ -1,5 +1,5 @@
 %% Please read the file ReadMe.txt in the same directory
-clc % this command clears the screen of previous printouts 
+% clc % this command clears the screen of previous printouts 
 clear % this clears the list of variables
 
 %% FileObject stores the data for each I62-file
